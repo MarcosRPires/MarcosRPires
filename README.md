@@ -2,7 +2,7 @@
 - 👀 Estou interessado em Devops
 - 🌱 Estou iniciando em JS
 - 💞️ Estou procurando colaborar e aprender em JS
-- 📫 Como chegar até mim atraves Do Github e ou LinkDin: www.linkedin.com/in/marcos-r-pires-323258b3
+- 📫 Como chegar até mim atraves do Github e ou LinkDin: www.linkedin.com/in/marcos-r-pires-323258b3
 
 <!---
 MarcosRPires/MarcosRPires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
